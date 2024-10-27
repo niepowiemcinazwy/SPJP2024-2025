@@ -10,4 +10,4 @@
 - [Bartłomiej Byszuk](https://github.com/byszukb/Studies)
 - [Natalia Lendzion](https://github.com/NataliaLen?tab=repositories)
 - [Kajetan Laskowski](https://github.com/Venir42/Jzyki_programowania)
-- [Mariusz Kamiński] (https://github.com/MKaminski664/Lab-UG)
+- [Mariusz Kamiński](https://github.com/MKaminski664/Lab-UG)
