@@ -12,3 +12,4 @@
 - [Kajetan Laskowski](https://github.com/Venir42/Jzyki_programowania)
 - [aleksander Baran](https://github.com/Abaran20/srodowisko-programistyczne)
 - [Mariusz Kamiński](https://github.com/MKaminski664/Lab-UG)
+- [Łukasz Słoński](https://github.com/Lukislonski/SlonskiL)
