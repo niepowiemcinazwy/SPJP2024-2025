@@ -10,3 +10,4 @@
 - [Bartłomiej Byszuk](https://github.com/byszukb/Studies)
 - [Natalia Lendzion](https://github.com/NataliaLen?tab=repositories)
 - [Kajetan Laskowski](https://github.com/Venir42/Jzyki_programowania)
+- [aleksander Baran](https://github.com/Abaran20/srodowisko-programistyczne)
