@@ -13,3 +13,4 @@
 - [aleksander Baran](https://github.com/Abaran20/srodowisko-programistyczne)
 - [Mariusz Kamiński](https://github.com/MKaminski664/Lab-UG)
 - [Łukasz Słoński](https://github.com/Lukislonski/SlonskiL)
+- [Dawid Wawer](https://github.com/niepowiemcinazwy)
